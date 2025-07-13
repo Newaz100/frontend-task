@@ -101,7 +101,7 @@ function App() {
           </div>
 
           <div className="output">
-            <h2>Form Data (Table format)</h2>
+            <h2>Tabulate Data</h2>
             <table>
               <thead>
                 <tr>
